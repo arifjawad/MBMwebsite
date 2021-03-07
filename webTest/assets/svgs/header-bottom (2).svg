@@ -1,0 +1,53 @@
+<svg width="1928" height="390" viewBox="0 0 1928 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path d="M4 382L68 367.808C132 354.146 260 324.965 388 282.919C516 240.076 644 184.368 772 141.526C900 99.4792 1028 70.2986 1156 63.6667C1284 57.0347 1412 70.2986 1540 106.111C1668 141.924 1796 197.632 1860 226.415L1924 254.667V0H1860C1796 0 1668 0 1540 0C1412 0 1284 0 1156 0C1028 0 900 0 772 0C644 0 516 0 388 0C260 0 132 0 68 0H4V382Z" fill="black"/>
+<circle cx="1210.5" cy="33.5" r="1.5" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 949.692 40.6765)" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 1073.69 21.6765)" fill="white"/>
+<ellipse cx="98.96" cy="195" rx="1.5" ry="1" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 519.692 73.6765)" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 728.692 103.676)" fill="white"/>
+<circle cx="168.5" cy="70.5" r="1.5" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 243.692 65.6765)" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 522.692 141.676)" fill="white"/>
+<circle cx="1405.5" cy="36.5" r="1.5" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 635.692 99.6765)" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 792.692 85.6765)" fill="white"/>
+<circle cx="835.5" cy="45.5" r="1.5" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 388.692 73.6765)" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 1725.69 61.6765)" fill="white"/>
+<circle cx="312.5" cy="138.5" r="1.5" fill="white"/>
+<circle cx="55.413" cy="334.413" r="1.39323" transform="rotate(-0.817203 55.413 334.413)" fill="white"/>
+<circle cx="22.5" cy="65.5" r="1.5" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 1598.69 44.6765)" fill="white"/>
+<circle cx="96.2997" cy="261.287" r="1.39323" transform="rotate(-0.817203 96.2997 261.287)" fill="white"/>
+<circle cx="24.5" cy="272.5" r="1.5" fill="white"/>
+<circle cx="33.6044" cy="132.412" r="1.39323" transform="rotate(-0.817203 33.6044 132.412)" fill="white"/>
+<ellipse cx="419" cy="135.5" rx="2" ry="2.5" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 194.692 128.676)" fill="white"/>
+<circle cx="348.5" cy="211.5" r="1.5" fill="white"/>
+<ellipse rx="1.6688" ry="1.65286" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 231.692 208.676)" fill="white"/>
+<ellipse cx="1743.5" cy="15" rx="0.5" ry="1" fill="white"/>
+<circle cx="1600.61" cy="3.61271" r="0.604305" transform="rotate(-0.817203 1600.61 3.61271)" fill="white"/>
+<circle cx="1876.16" cy="19.2989" r="1.23608" transform="rotate(-0.817203 1876.16 19.2989)" fill="white"/>
+<circle cx="1521.81" cy="64" r="1" fill="white"/>
+<circle cx="1683.61" cy="36.6127" r="0.604305" transform="rotate(-0.817203 1683.61 36.6127)" fill="white"/>
+<circle cx="1554.61" cy="54.6127" r="0.604305" transform="rotate(-0.817203 1554.61 54.6127)" fill="white"/>
+<ellipse rx="1.48056" ry="1.46642" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 1860.5 163.487)" fill="white"/>
+<ellipse cx="1812" cy="103" rx="1" ry="2" fill="white"/>
+<circle cx="1624.25" cy="87.2535" r="1.23608" transform="rotate(-0.817203 1624.25 87.2535)" fill="white"/>
+<ellipse rx="1.48056" ry="1.46642" transform="matrix(0.9999 -0.0141261 0.0144 0.999896 1712.77 119.76)" fill="white"/>
+<circle cx="570.5" cy="28.5" r="1.5" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="1928" height="390" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

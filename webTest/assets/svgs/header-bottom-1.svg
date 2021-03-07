@@ -1,0 +1,13 @@
+<svg width="1920" height="473" viewBox="0 0 1920 473" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 421.5V228.5C91 436.5 231 461.5 384 461.5C490 461.5 674 391 792.5 318C911 245 1024 181.979 1152 104.32C1280 27.6259 1408 -7.7468 1536 1.41794C1664 9.93953 1792 61.3907 1856 87.1163L1920 112.842V473H1856C1792 473 1664 473 1536 473C1408 473 1280 473 1152 473C1024 473 896 473 768 473C640 473 512 473 384 473C256 473 128 473 64 473H0V421.5Z" fill="black"/>
+<ellipse rx="3" ry="2.5" transform="matrix(-1 0 0 1 750 433.5)" fill="#C9A959"/>
+<ellipse rx="2.5" ry="3" transform="matrix(-1 0 0 1 1766.5 375)" fill="#C9A959"/>
+<circle r="3" transform="matrix(-1 0 0 1 1316 237)" fill="#C9A959"/>
+<circle r="3" transform="matrix(-1 0 0 1 1810 234)" fill="#C9A959"/>
+<ellipse rx="3" ry="2.5" transform="matrix(-1 0 0 1 957 386.5)" fill="#C9A959"/>
+<ellipse rx="3" ry="2.5" transform="matrix(-1 0 0 1 27 383.5)" fill="#C9A959"/>
+<circle r="2.5" transform="matrix(-1 0 0 1 1567.5 330.5)" fill="#C9A959"/>
+<ellipse rx="3" ry="2.5" transform="matrix(-1 0 0 1 100 438.5)" fill="#C9A959"/>
+<ellipse rx="2.5" ry="3" transform="matrix(-1 0 0 1 1157.5 381)" fill="#C9A959"/>
+<circle r="3" transform="matrix(-1 0 0 1 1578 109)" fill="#C9A959"/>
+</svg>
